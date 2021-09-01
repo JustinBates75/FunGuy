@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBatesFinalProject", "JBatesFinalProject\JBatesFinalProject.csproj", "{673CBFB1-458B-4216-A6AC-92F892122CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{673CBFB1-458B-4216-A6AC-92F892122CDE}.Debug|x86.ActiveCfg = Debug|x86
+		{673CBFB1-458B-4216-A6AC-92F892122CDE}.Debug|x86.Build.0 = Debug|x86
+		{673CBFB1-458B-4216-A6AC-92F892122CDE}.Release|x86.ActiveCfg = Release|x86
+		{673CBFB1-458B-4216-A6AC-92F892122CDE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8048E16-10B0-4502-8CE6-1DABFE928521}
+	EndGlobalSection
+EndGlobal

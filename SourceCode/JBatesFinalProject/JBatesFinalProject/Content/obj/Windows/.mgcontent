@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Fonts/HighlightFont.spritefont</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Fonts/RegularFont.spritefont</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/BGMushroom1.jpg</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/BGMushroom2.jpg</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/playerReSized.jpg</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Click_01.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Click_02.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Click_03.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Click_04.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Click_05.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Close_Screen_01.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Close_Screen_02.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Close_Screen_03.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Confirm_01.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Confirm_02.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Confirm_03.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Cute_Error_01.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Cute_Error_02.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Cute_Error_03.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Cute_Error_04.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Cute_Error_05.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Cute_Error_06.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Cute_Error_07.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Cute_Swipe 01.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Cute_Swipe 02.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Error_01.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Error_02.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Notification_01.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Notification_02.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Notification_03.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Notification_04.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Select_01.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Select_02.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/UI/Select_03.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/Music/backgroundMusic.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/Space-Key.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/platformTileDouble.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/platformTileQuad.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/playerReSized2.jpg</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/parrallaxFG.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/parrallax2.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/Mountain.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/playerTransparent.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/SpriteSheet/SpiderWalk.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/Enemy1.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/Music/FunkyChill.mp3</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/SoundEffects/jump.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/SpriteSheet/playerWalk.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/SpriteSheet/EnemyFly.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/Esc-Key.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Sounds/SoundEffects/death.wav</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/R-Key.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/restartText.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/helpScreen.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/SpriteSheet/level1.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/SpriteSheet/level2.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/SpriteSheet/level3.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/AboutScreen.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/HelpScreen2.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/mainMenu.png</File>
+    <File>C:/Users/Justin/Desktop/JBatesFinalProject/SourceCode/JBatesFinalProject/JBatesFinalProject/Content/Images/AboutScreen2.png</File>
+  </SourceFiles>
+</SourceFileCollection>

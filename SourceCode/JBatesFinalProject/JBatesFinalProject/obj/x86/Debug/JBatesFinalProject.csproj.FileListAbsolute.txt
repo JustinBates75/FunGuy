@@ -1,0 +1,182 @@
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\obj\x86\Debug\JBatesFinalProject.csprojAssemblyReference.cache
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\obj\x86\Debug\JBatesFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Fonts\HighlightFont.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Fonts\RegularFont.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\JBatesFinalProject.exe
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\JBatesFinalProject.pdb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\obj\x86\Debug\JBatesFinalProject.csproj.CopyComplete
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\obj\x86\Debug\JBatesFinalProject.exe
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\obj\x86\Debug\JBatesFinalProject.pdb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\BGMushroom1.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\BGMushroom2.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\playerReSized.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Click_01.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Click_02.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Click_03.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Click_04.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Click_05.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Close_Screen_01.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Close_Screen_02.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Close_Screen_03.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Confirm_01.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Confirm_02.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Confirm_03.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Cute_Error_01.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Cute_Error_02.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Cute_Error_03.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Cute_Error_04.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Cute_Error_05.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Cute_Error_06.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Cute_Error_07.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Cute_Swipe 01.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Cute_Swipe 02.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Error_01.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Error_02.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Notification_01.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Notification_02.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Notification_03.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Notification_04.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Select_01.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Select_02.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Select_03.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\Music\backgroundMusic.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\Space-Key.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\platformTileDouble.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\platformTileQuad.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\Enemy1.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\SpriteSheet\SpiderWalk.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\playerReSized2.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\parrallaxFG.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\parrallax2.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\Mountain.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\playerTransparent.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\Music\FunkyChill.wma
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\Music\FunkyChill.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\SoundEffects\jump.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\SpriteSheet\playerWalk.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\SpriteSheet\EnemyFly.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\Esc-Key.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\SoundEffects\death.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\R-Key.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\restartText.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\helpScreen.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\SpriteSheet\level1.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\SpriteSheet\level2.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\SpriteSheet\level3.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\AboutScreen.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\HelpScreen2.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\mainMenu.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\AboutScreen2.xnb
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\JBatesFinalProject.exe.manifest
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\JBatesFinalProject.application
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\obj\x86\Debug\JBatesFinalProject.exe.manifest
+C:\Users\Justin\Desktop\Conestoga\Term 3\Game Prog and Data Structures\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\obj\x86\Debug\JBatesFinalProject.application
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Click_01.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Click_02.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Click_03.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Click_04.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Click_05.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Close_Screen_01.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Close_Screen_02.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Close_Screen_03.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Confirm_01.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Confirm_02.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Confirm_03.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Cute_Error_01.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Cute_Error_02.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Cute_Error_03.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Cute_Error_04.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Cute_Error_05.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Cute_Error_06.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Cute_Error_07.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Cute_Swipe 01.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Cute_Swipe 02.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Error_01.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Error_02.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Notification_01.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Notification_02.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Notification_03.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Notification_04.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Select_01.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Select_02.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\UI\Select_03.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\SpriteSheet\EnemyFly.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\SpriteSheet\level1.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\SpriteSheet\level2.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\SpriteSheet\level3.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\SpriteSheet\playerWalk.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\SpriteSheet\SpiderWalk.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\SoundEffects\death.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\SoundEffects\jump.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\AboutScreen.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\AboutScreen2.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\BGMushroom1.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\BGMushroom2.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\Enemy1.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\Esc-Key.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\helpScreen.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\HelpScreen2.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\mainMenu.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\Mountain.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\parrallax2.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\parrallaxFG.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\platformTileDouble.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\platformTileQuad.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\playerReSized.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\playerReSized2.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\playerTransparent.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\R-Key.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\restartText.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Images\Space-Key.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\Music\backgroundMusic.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\Music\FunkyChill.wma
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Sounds\Music\FunkyChill.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Fonts\HighlightFont.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\Content\Fonts\RegularFont.xnb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\JBatesFinalProject.exe.manifest
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\JBatesFinalProject.application
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\JBatesFinalProject.exe
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\JBatesFinalProject.pdb
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\obj\x86\Debug\JBatesFinalProject.csprojAssemblyReference.cache
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\obj\x86\Debug\JBatesFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\obj\x86\Debug\JBatesFinalProject.exe.manifest
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\obj\x86\Debug\JBatesFinalProject.application
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\obj\x86\Debug\JBatesFinalProject.csproj.CopyComplete
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\obj\x86\Debug\JBatesFinalProject.exe
+C:\Users\Justin\Desktop\JBatesFinalProject\SourceCode\JBatesFinalProject\JBatesFinalProject\obj\x86\Debug\JBatesFinalProject.pdb
